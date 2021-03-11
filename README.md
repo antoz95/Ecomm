@@ -1,1 +1,1 @@
-Sample ecommerce website
+Website for Cupcake Siblings Cafe
